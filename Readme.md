@@ -37,7 +37,7 @@ pip install streamlit pandas scikit-learn
 ### How to Run:
 1.Clone the repository:
 ```bash
-git clone https://github.com/Santhoshi0708/Diabetes_Prediction/blob/main/Readme.md?plain=1
+git clone https://github.com/Santhoshi0708/Diabetes_Prediction
 
 ```
 2.Install dependencies:
