@@ -1,3 +1,4 @@
+#  👋 Hi Santhoshi Kumari Kothapalli
 # Diabetes Prediction App
 
 This Streamlit app allows users to predict whether they have diabetes based on their input data.
@@ -48,3 +49,11 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+## Preview
+[Checkout Here]()
+
+## 🔗 Follow us
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
+
+## Feedback
+If you have any feedback, please reach out to us at santhu2002.kothapalli@gmail.com
